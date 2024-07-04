@@ -13,22 +13,18 @@ Begin the process of uploading documents to facilitate a deeper understanding of
 Our AI is now poised to efficiently manage customer interactions around the clock, leveraging the data provided in any language
 
 
-TRY IT OUT HERE (ChatHack AI Assistance): https://api.whatsapp.com/send/?phone=60175733742&text=what%20is%20the%20prizes%20for%20this%20hackathon
+TRY IT OUT HERE: https://api.whatsapp.com/send/?phone=96898588908&text=Hi
 
 
-Website: https://chatbot.easyfastai.com
+Website: https://chat.easyfastai.com
 
 ## Demo account
 
-URL: https://chatbot.easyfastai.com/login
+URL: https://chat.easyfastai.com/login
 
-Email: contact@easyfastai.com
+Email: sherefabolmagd2010@gmail.com
 
-Password: lablabme@12345
-
-Example document to use for training the AI
-
-https://drive.google.com/file/d/1r9Tkieu97hk9EdIMtd3yMNjcG4tflcTu
+Password: ukZWC7xyPv8XZR_
 
 ## Features
 
